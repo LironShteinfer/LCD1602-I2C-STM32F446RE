@@ -34,7 +34,7 @@ This project demonstrates low-level hardware control, datasheet analysis, and di
 ## Project Structure
 
 ```text
-├── core/
+├── Core/
 │   └── Src/
 │       └── main.c          # Application entry point
 ├── Drivers/
